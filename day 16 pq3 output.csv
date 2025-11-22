@@ -1,0 +1,4 @@
+service,sum(patients_admitted)
+emergency,1185
+surgery,1686
+general_medicine,2332
